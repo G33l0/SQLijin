@@ -1,0 +1,4 @@
+googlesearch-python
+requests
+colorama
+urllib3
