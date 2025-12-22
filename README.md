@@ -1,4 +1,3 @@
-File: README.md
 # 🔱 SQLijin v2.1
 *Advanced SQLi Reconnaissance & Passive Vulnerability Fingerprinter*
 
@@ -26,7 +25,7 @@ Running in a *Virtual Environment (venv)* is highly recommended. This creates a 
 ### 1. Clone & Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/SQLijin.git](https://github.com/YOUR_USERNAME/SQLijin.git)
+git clone [https://github.com/G33l0/SQLijin.git](https://github.com/G33l0/SQLijin.git)
 cd SQLijin
 
 # Create a private virtual environment
